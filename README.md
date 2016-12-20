@@ -119,7 +119,7 @@ voorkeur.
 Voorbeelden zijn:
 * `Utrecht`
 * `Neuchâtel, Zwitserland`
-* `Horní Branná. Tsjechische Republiek`
+* `Horní Branná, Tsjechische Republiek`
 * `Tokio, Japan`
 
 
