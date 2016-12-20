@@ -58,13 +58,17 @@ Voor een certificaat wordt het volgende ingevuld voor degene aan wie het
 certificaat wordt uitgereikt. Indien er twijfel is or het vermoeden dat er een
 fout in de ledenadministratie zit, neem contact op met het bestuur.
 
+In de meeste gevallen wordt door de Technische Commissie een kant-en-klare
+lijst voor aan te maken certificaten aangeleverd. Daaruit kunnen alle gegevens
+direct worden gekopieerd.
+
 De gebruikte software verwacht Unicode UTF-8 als karaktercodering voor de
 invoer. Op oudere computers kan dit een probleem zijn voor letters met
 diakritische tekens zoals `ž` of met Japanse karakters zoals `合`.
 
-In de meeste gevallen wordt door de Technische Commissie een kant-en-klare
-lijst voor aan te maken certificaten aangeleverd. Daaruit kunnen alle gegevens
-direct worden gekopieerd.
+Om in Inkscape een tekst aan te passen, druk op `F8` en klik daarna op het
+stukje tekst dat moet worden aangepast. Mocht onverhoopt een stukje tekst
+worden verplaatst dan kan met `Ctrl+Z` deze terug worden geplaatst.
 
 
 ### 2.1 Naam
@@ -171,6 +175,9 @@ worden. Dan zal het invoeren van het papier handmatig per certificaat moeten
 geschieden. Dit voorkomt dat per ongeluk op de verkeerde kant wordt geprint of
 papier in een papierlade wordt vergeten en daardoor onnodig papier wordt
 verspilt.
+
+Afdrukken vanuit Inkscape kan door middel van `Ctrl+P`. Kies voor enkelzijdig
+afdrukken met een zo hoog mogelijke resolutie en met alleen zwart als inkt.
 
 
 ## 4 Ondertekening
