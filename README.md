@@ -10,6 +10,8 @@ Certificaten voor kyu- en andere examens voor
 toegestaan deze in te vullen of uit te reiken zonder voorafgaande toestemming
 van de Technische Commissie, zie ook [LICENSE](LICENSE)
 
+[![Voorbeeld](voorbeeld.png?raw=true)](voorbeeld.png?raw=true)
+
 
 ## 1 Software
 
@@ -142,6 +144,11 @@ Voorbeelden zijn:
 Let op dat soms leden die ooit bij een andere groep in Aikido Zwitserland
 hebben getraind soms een nieuw lidnummer hebben gekregen. Gebruik dan het
 nummer dat ten tijde van het examen geldig was.
+
+Als er geen lidnummer van de Aikido Zwitserland bekend is voor een examen van
+niveau zesde kyu, dient er `n.v.t.` te worden ingevuld. Dit heeft te maken met
+de aanmeldvoorwaarden van Aikido Zwitserland want alleen mensen met zesde kyu
+en hoger dienen daar ingeschreven te staan.
 
 
 ## 3 Afdrukken
