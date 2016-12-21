@@ -10,6 +10,10 @@ Certificaten voor kyu- en andere examens voor
 toegestaan deze in te vullen of uit te reiken zonder voorafgaande toestemming
 van de Technische Commissie, zie ook [LICENSE](LICENSE)
 
+Een certificaat is niet geldig als deze niet in het examenregister van de
+vereniging en niet in het examenregister van de federatie is opgenomen. Het
+maken van illegale certificaten valt wettelijk onder valsheid in geschriften.
+
 [![Voorbeeld](voorbeeld.png?raw=true)](voorbeeld.png?raw=true)
 
 
