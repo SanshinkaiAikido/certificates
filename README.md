@@ -68,7 +68,11 @@ diakritische tekens zoals `ž` of met Japanse karakters zoals `合`.
 
 Om in Inkscape een tekst aan te passen, druk op `F8` en klik daarna op het
 stukje tekst dat moet worden aangepast. Mocht onverhoopt een stukje tekst
-worden verplaatst dan kan met `Ctrl+Z` deze terug worden geplaatst.
+worden verplaatst dan kan met `Ctrl+Z` deze terug worden geplaatst. Alleen de
+velden die niet ingevuld dienen te worden zijn beveiligd tegen elke aanpassing.
+In het ergste geval van per ongeluk aanpassen of twijfel daarover kan ook deze
+volledige directory opnieuw worden gedownload van
+[GitHub](https://github.com/SanshinkaiAikido/certificates).
 
 
 ### 2.1 Naam
