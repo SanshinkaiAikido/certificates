@@ -83,22 +83,22 @@ volledige directory opnieuw worden gedownload van
 
 Ten eerste wordt de naam ingevuld. Dit is de volledige naam met alle officiële
 voor- en achternamen zoals in de ledenadministratie te vinden is. Een
-meisjesnaam verschijnt achter de achternaam, gescheiden met een streepje waar
-links en rechts een spatie omheen staat.
+partnernaam verschijnt achter de voornaam en, gescheiden met een streepje,
+gevolgd door de eigen achternaam.
 
 Indien een naam te lang is mag vanaf de tweede tot en met de laatste voornaam
 deze worden afgekort en met puntjes en zonder spaties worden geschreven.
 Voorvoegsels zoals `van den` van een achternaam, mogen niet worden afgekort.
 
 Voorbeelden, met toelichting tussen haakjes, zijn:
-* `Fabiënne Bakkers` (enkele voornaam en achternaam)
+* `Fabiënne de Kooi` (enkele voornaam en achternaam)
 * `Piet van den Bak` (enkele voornaam en achternaam met voorvoegsel)
 * `Janwillem Bakkers` (dubbele voornaam en achternaam)
 * `Kees-Willem Bakkers` (dubbele voornaam met streepje en achternaam)
 * `Kees Willem Bakkers` (meerdere voornamen en achternaam)
 * `Kees Costa Florencio` (enkele voornaam en dubbele achternaam)
 * `Kees Roxo-Lino` (enkele voornaam en dubbele achternaam met streepje)
-* `Miranda Bakkers - Jouwstra` (eenvoudige naam met meisjesnaam) 
+* `Miranda Bak-de Kooi` (voornaam met partnernaam, streepje en achternaam) 
 * `Kees J.W.P.R. Schepeners` (meerdere voornamen met tweede en daarna afgekort)
 
 Let op dat er bij namen van alles kan voorkomen. Bijvoorbeeld wordt in Vlaamse
