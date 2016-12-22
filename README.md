@@ -70,13 +70,15 @@ De gebruikte software verwacht Unicode UTF-8 als karaktercodering voor de
 invoer. Op oudere computers kan dit een probleem zijn voor letters met
 diakritische tekens zoals `ž` of met Japanse karakters zoals `合`.
 
-Om in Inkscape een tekst aan te passen, druk op `F8` en klik daarna op het
-stukje tekst dat moet worden aangepast. Mocht onverhoopt een stukje tekst
-worden verplaatst dan kan met `Ctrl+Z` deze terug worden geplaatst. Alleen de
-velden die niet ingevuld dienen te worden zijn beveiligd tegen elke aanpassing.
-In het ergste geval van per ongeluk aanpassen of twijfel daarover kan ook deze
-volledige directory opnieuw worden gedownload van
-[GitHub](https://github.com/SanshinkaiAikido/certificates).
+Gebruik alleen Inkscape om de SVG-bestanden te openen en aan te passen om een
+certificaat af te drukken. Om in Inkscape een tekst aan te passen, druk op `F8`
+en klik daarna op het stukje tekst dat moet worden aangepast.
+
+Mocht onverhoopt een stukje tekst worden verplaatst dan kan met `Ctrl+Z` deze
+terug worden geplaatst. Alleen de velden die niet ingevuld dienen te worden
+zijn beveiligd tegen elke aanpassing. In het ergste geval van per ongeluk
+aanpassen of twijfel daarover kan ook deze volledige directory opnieuw worden
+gedownload van [GitHub](https://github.com/SanshinkaiAikido/certificates).
 
 
 ### 2.1 Naam
@@ -152,15 +154,20 @@ te vinden is.
 Voorbeelden zijn:
 * `00368`
 * `00496`
+* `nvt`
 
 Let op dat soms leden die ooit bij een andere groep in Aikido Zwitserland
 hebben getraind soms een nieuw lidnummer hebben gekregen. Gebruik dan het
 nummer dat ten tijde van het examen geldig was.
 
 Als er geen lidnummer van de Aikido Zwitserland bekend is voor een examen van
-niveau zesde kyu, dient er `n.v.t.` te worden ingevuld. Dit heeft te maken met
+niveau zesde kyu, dient er `nvt` te worden ingevuld. Dit heeft te maken met
 de aanmeldvoorwaarden van Aikido Zwitserland want alleen mensen met zesde kyu
-en hoger dienen daar ingeschreven te staan.
+en hoger dienen daar vanaf het begin van het volgende jaar ingeschreven te
+staan. Soms kan het ook zijn dat iemand tijdelijk in Nederland traint maar
+officieel lid is van een federatie in bijvoorbeeld Slowakije. In ieder geval
+is als er gegevens die voor een te maken certificaat worden aangeleverd, dit al
+uitgezocht.
 
 
 ## 3 Afdrukken
