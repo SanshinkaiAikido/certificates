@@ -173,8 +173,8 @@ uitgezocht.
 
 Het is ook mogelijk om automatisch PDF's te genereren aan de hand van het
 BASH-script `./generate.sh` dat op zijn beurt het script `convert.py` in Python
-3 runt. De benodigde informatie moet worden ingevoerd in `generate.tsv` en de
-output is te vinden in de directory `generated`.
+3 runt. De benodigde informatie moet worden ingevoerd in `data.tsv` en de
+aangemaakte PDF-bestanden zijn te vinden in de directory `output`.
 
 
 ## 3 Afdrukken
