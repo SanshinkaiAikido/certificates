@@ -25,9 +25,9 @@ De volgende software is nodig om de certificaten te kunnen vervaardigen.
 ### 1.1 Inkscape
 
 Deze certificaten worden ingevuld en afgedrukt vanuit het vectortekenprogramma
-[Inkscape](http://inkscape.org). Dit programma werkt op Windows, OS-X en Linux.
-Installatie kan vanaf de website. Voor Linux heeft de installatie de voorkeur
-aan
+[Inkscape](http://inkscape.org), minimaal versie 0.92. Dit programma werkt op
+Windows, OS-X en Linux. Installatie kan vanaf de website. Voor Linux heeft de
+installatie de voorkeur aan
 
     sudo apt-get install inkscape
 
@@ -48,12 +48,12 @@ of via een ander pakketbeheerprogramma.
 ### 1.3 Bestanden
 
 De volgende bestanden zijn beschikbaar om certificaten mee te maken:
-* [examen-6kyu.svg](examen-6kyu.svg)
-* [examen-5kyu.svg](examen-5kyu.svg)
-* [examen-4kyu.svg](examen-4kyu.svg)
-* [examen-3kyu.svg](examen-3kyu.svg)
-* [examen-2kyu.svg](examen-2kyu.svg)
-* [examen-1kyu.svg](examen-1kyu.svg)
+* [6kyu-sau.svg](6kyu-sau.svg) 六級 rokkyū
+* [5kyu-sau.svg](5kyu-sau.svg) 五級 gokyū
+* [4kyu-sau.svg](4kyu-sau.svg) 四級 yonkyū
+* [3kyu-sau.svg](3kyu-sau.svg) 三級 sankyū
+* [2kyu-sau.svg](2kyu-sau.svg) 弐級 nikyū
+* [1kyu-sau.svg](1kyu-sau.svg) 壱級 ikkyū
 
 
 ## 2 Invullen
@@ -168,6 +168,13 @@ staan. Soms kan het ook zijn dat iemand tijdelijk in Nederland traint maar
 officieel lid is van een federatie in bijvoorbeeld Slowakije. In ieder geval
 is als er gegevens die voor een te maken certificaat worden aangeleverd, dit al
 uitgezocht.
+
+### 2.6 Automatische generatie
+
+Het is ook mogelijk om automatisch PDF's te genereren aan de hand van het
+BASH-script `./generate.sh` dat op zijn beurt het script `convert.py` in Python
+3 runt. De benodigde informatie moet worden ingevoerd in `generate.tsv` en de
+output is te vinden in de directory `generated`.
 
 
 ## 3 Afdrukken
