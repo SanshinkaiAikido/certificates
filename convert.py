@@ -1,10 +1,9 @@
 from csv import reader
 
-for data in reader(open('generate.tsv', 'r'), delimiter='\t'):
+for data in reader(open('data.tsv', 'r'), delimiter='\t'):
 	exam, name, date, place, number, federation = data
-	print(exam, name, date, place, number, federation)
 	template = open('{}.svg'.format(exam), 'r')
-	output = open('generated/{}.svg'.format(exam), 'w')
+	output = open('output/{}.svg'.format(exam), 'w')
 	for line in template:
 		if 'Voornaam Voornaam voorvoegsel Achternaam' in line:
 			line = line.replace('Voornaam Voornaam voorvoegsel Achternaam', name)

@@ -1,11 +1,11 @@
-if [ -e generated ]; then
-	rm -rf generated
+if [ -e output ]; then
+	rm -rf output
 fi
-mkdir generated
-python3 generate.py
-cd generated
+mkdir output
+python3 convert.py
+cd output
 for i in *.svg; do
-	inkscape -z -f $i -A `basename $i svg pdf`
+	inkscape -z -f $i -A `basename $i svg`pdf
 done
 rm -f *.svg
 cd ..
