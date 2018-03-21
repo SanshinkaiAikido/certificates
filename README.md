@@ -174,7 +174,9 @@ uitgezocht.
 Het is ook mogelijk om automatisch PDF's te genereren aan de hand van het
 BASH-script `./generate.sh` dat op zijn beurt het script `convert.py` in Python
 3 runt. De benodigde informatie moet worden ingevoerd in `data.tsv` en de
-aangemaakte PDF-bestanden zijn te vinden in de directory `output`.
+aangemaakte PDF-bestanden zijn te vinden in de directory `output`. Let op:
+`data.tsv` is om privacyredenen uitgesloten van versiebeheer. Alleen het
+voorbeeld `data-example.tsv` valt wel onder versiebeheer.
 
 
 ## 3 Afdrukken
