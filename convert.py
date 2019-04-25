@@ -1,6 +1,6 @@
 from csv import reader
 
-for data in reader(open('data.tsv', 'r'), delimiter='\t'):
+for data in reader(open('data.tsv'), delimiter='\t'):
 	print(data)
 	exam, name, date, place, number, federation = data
 	if '' == exam or '' == name or '' == place or '' == number or 4 != len(number) or 5 != len(federation):
@@ -11,7 +11,7 @@ for data in reader(open('data.tsv', 'r'), delimiter='\t'):
 	number = int(number)
 	if '' != federation:
 		federation = int(federation)
-	template = open('{}.svg'.format(exam), 'r')
+	template = open('{}.svg'.format(exam))
 	output = open('output/{}-{:04}.svg'.format(exam, number), 'w')
 	for line in template:
 		if 'Voornaam Voornaam voorvoegsel Achternaam' in line:
